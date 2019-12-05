@@ -10,15 +10,15 @@ To complement or correct it, please contact me at thearyaskumar[at]icloud[dot]co
 - [Code](#code)
 - [Papers](#papers)
   - [Overview](#overview)
-  - [Applied]((#applied)
+  - [Applied](#applied)
  
 
 # Videos
-- <SOME VIDEO NAME> [[<SOME VIDEO>]](<SOME VIDEO LINK>)
+- SOME VIDEO NAME [[SOME VIDEO]](SOME VIDEO LINK)
 
 
 # Code
-- <SOME DESCRIPTION OF THE CODE> [[<SOME LINK TO BLOG OR CODE>]](<SOME BLOG/CODE LINK>)
+- SOME DESCRIPTION OF THE CODE [[SOME LINK TO BLOG OR CODE]](SOME BLOG/CODE LINK)
 
 # Papers
 ## Overview
@@ -27,4 +27,4 @@ To complement or correct it, please contact me at thearyaskumar[at]icloud[dot]co
 literature review [[ResearchGate]](https://www.researchgate.net/publication/306285292_Remote_heart_rate_measurement_using_low-cost_RGB_face_video_A_technical_literature_review)
 
 ## Applied
-- <PAPER TITLE> [[arXiv]](<PAPER LINK HERE>)
+- PAPER TITLE [[arXiv]](PAPER LINK HERE)
